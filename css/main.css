@@ -1109,8 +1109,8 @@ pre .javascript .function {
   position: relative;
   display: inline-block;
   padding: 0 40px;
-  color: #fff;
-  background: #222;
+  color: #222;
+  background: #fff;
   border-bottom: none;
 }
 .brand:hover {
@@ -1821,7 +1821,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff908;
+  background: #ffff12;
 }
 .links-of-blogroll {
   font-size: 13px;
