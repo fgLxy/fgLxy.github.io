@@ -1931,7 +1931,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #dd912a;
+  background: #2dffa1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2916,18 +2916,4 @@ hr {
     width: auto;
     text-align: center;
   }
-}
-.tag-list-box {
-  padding-left: 20px;
-  position: fixed;
-}
-.tag-list-box p {
-  margin-left: 10px;
-  font-size: 24px;
-  font-weight: bold;
-  border-bottom: 1px dashed #ccc;
-  width: 100%;
-}
-.tag-list-box ul {
-  margin-left: 20px;
 }
